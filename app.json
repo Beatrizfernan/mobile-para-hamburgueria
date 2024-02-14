@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "nlw-export-rn",
+    "slug": "nlw-export-rn",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "",
+    "scheme": "myapp",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.trizfernande.nlwexportrn"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": ""
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "98709384-6eee-4957-a92a-6839a600837d"
+      }
+    }
+  }
+}
