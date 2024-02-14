@@ -3,7 +3,7 @@
 
 
             
-# **Documentação do Projeto de React Native do evento NLW-EXPORT:**
+# **Documentação do Projeto de React Native do evento NLW-EXPERT:**
 
 ### **🍔 Hamburgueria**
 
@@ -19,6 +19,8 @@ O projeto consiste em um aplicativo móvel desenvolvido com React Native para um
 4. Realização de pedidos com integração ao WhatsApp.
 
 O aplicativo é composto por múltiplas telas, incluindo a tela inicial que exibe o cardápio de produtos, a tela do carrinho de compras e a tela de confirmação do pedido.
+## **Figma**
+link:https://www.figma.com/file/YdfUAzz1ugm8MJBpVO3exg/NLW-expert-%E2%80%A2-Orders-(Community)?type=design&node-id=2%3A287&mode=dev&t=J69iqMdUsuBZsctc-1
 
 ## **Estrutura do Projeto**
 
